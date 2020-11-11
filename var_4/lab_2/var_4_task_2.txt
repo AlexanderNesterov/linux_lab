@@ -1,0 +1,6 @@
+1.
+	ps -lA
+2.
+	kill SIGTSTP process_id
+3.
+	ps -U root -u root

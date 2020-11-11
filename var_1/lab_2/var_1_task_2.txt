@@ -1,0 +1,7 @@
+1.
+	ps -A
+2.
+	kill SIGTERM process_id
+	kill SIGKILL process_id
+3.
+	pgrep -v -u root
