@@ -18,4 +18,4 @@ sudo mkdir nesterov
 cd $lab_folder
 
 # Напишите свою фамилию
-sudo mv file_3.doc /usr/share/doc/nesterov
+sudo mv file_3.res /usr/share/doc/nesterov
